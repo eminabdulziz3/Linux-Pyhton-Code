@@ -1,2 +1,2 @@
 # Linux-Pyhton-Code
-In Python geschriebene Codes, die unter Linux verwendet werden können.
+Python codes written that can be used under Linux
